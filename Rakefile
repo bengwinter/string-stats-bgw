@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "string-stats-bgw"
   gem.homepage = "http://github.com/bengwinter/string-stats-bgw"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Adds analysis methods to the String class.}
+  gem.description = %Q{Adds analysis methods of word_count and more to the String class.}
   gem.email = "ben.g.winter@gmail.com"
   gem.authors = ["Ben Winter"]
   # dependencies defined in Gemfile
